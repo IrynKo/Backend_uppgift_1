@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApi",
+    "\\WebApi\\Controllers",
+    "\\WebApi\\Controllers\\Orders",
+    "\\WebApi\\Data",
+    "\\WebApi\\Models"
+  ],
+  "SelectedNode": "\\AspNetCoreWebApi.sln",
+  "PreviewInSolutionExplorer": false
+}
